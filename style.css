@@ -1,0 +1,90 @@
+body{
+    margin: 0px;
+}
+.baner1{
+    background-color: #23232e;
+    height: 150px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.baner2{
+    background-color:#23232e;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between 10px;
+    text-decoration:none;
+}
+
+.pr{
+    margin-top: 10px;
+    width: 350px;
+    height: 200px;
+}
+.sobre{
+    margin: 10px;
+    text-decoration: none;
+    color:white ;
+  
+}
+.contatos{
+    margin: 10px;
+    text-decoration: none;
+    color:white ;
+}
+.rede{
+    margin: 10px;
+    text-decoration: none;
+    color:white ;
+}
+.menino{
+    width: 100%;
+}
+.foto{
+    margin-top: 15px;
+}
+.d1{
+    height: 60px;
+    width: 150px;
+    background-color:#c80000 ;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+.ad{
+    height: 60px;
+    width: 250px;
+    background-color:#003ec8;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+h2{
+    font-size: 60px;
+    color:  #217B96;
+}
+p{
+    font-size: 40px;
+}
+h1{
+    font-size: 60px;
+    color:  #217B96;
+}
+.dedo{
+    width: 100%;
+}
+.banerb{
+    background-color: #23232e;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.aqui{
+    color:  #217B96;
+}
